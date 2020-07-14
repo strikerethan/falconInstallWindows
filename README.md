@@ -1,1 +1,2 @@
-# falconInstallWindows
+# Command to run
+falconInstall.exe
