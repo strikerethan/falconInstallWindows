@@ -1,2 +1,2 @@
-# Command to run
+# How to use
 falconInstall.exe
